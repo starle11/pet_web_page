@@ -1,0 +1,19 @@
+p{
+  font-family: 'Montserrat'
+}
+
+body{
+  background-color: lightgreen;
+}
+
+strong{
+  color: gray
+}
+
+h1{
+  color: gray
+}
+img src= capture.PNG{
+  width: 50%
+  length: 50%
+}
